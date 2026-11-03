@@ -1,0 +1,2 @@
+new file f
+new file f is now modified after reset
